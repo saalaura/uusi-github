@@ -27,7 +27,7 @@ public class App {
       if (ika == 18) { 
         System.out.println("Olet täysi-ikäinen, saat ajaa autoa");
       } moi;
-      Toivottavasti tämä on nyt oikein!
+      Toivottavasti tämä on nyt oikein! Tehtävä päättyy.
        
       
        
